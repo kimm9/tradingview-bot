@@ -1,0 +1,2 @@
+API_KEY = 'am5_zQolBTa6iX8iHs07UXCvYdHqRLPiO3AagQxp'
+SECRET_KEY = '-6bSH7M5h70sAIOy-Mx8srhHD4Ih4Hfu-cl-CnQ2'
